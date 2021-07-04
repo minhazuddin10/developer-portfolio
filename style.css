@@ -17,7 +17,7 @@ section{
     padding-left: 2%;
 }
 .half-width img{
-    width: 80%;
+    width: 100%;
 }
 .link-button{
     text-decoration: none;
@@ -30,4 +30,9 @@ section{
 .top-banner{
     background-image:url(top-banner.png);
     background-repeat:no-repeat;
+}
+.dream-big{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
